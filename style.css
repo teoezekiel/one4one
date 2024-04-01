@@ -30,9 +30,9 @@ h1 {
 }
 .article p{
     text-align: center;
-    font-weight: 200;
+    font-weight: 400;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #364f6b;
+    color: #243549;
 }
 .dress_code_1 {
     display: flex;
@@ -88,10 +88,18 @@ h3{
     box-shadow: #362b2b;
 }
 .content{ 
-    text-align: center;
-    color: #364f6b;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  font-weight: 400;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #243549;
 }
+
+span{
+  text-align: center;
+  font-weight: 200;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #3532e2;
+}  
 
 /* Modal styles */
 .modal-overlay {
